@@ -2,9 +2,6 @@
 
 A private network for startup founders to connect, share ideas, and build together.
 
-## 🌐 Live Website
- [Join the waitlist](abduu.github.io)
-
 ---
 
 ##  About
@@ -35,7 +32,7 @@ We are testing:
 We’re onboarding early users.
 
 👉 Fill out the form here:  
-[YOUR_GOOGLE_FORM_LINK](https://forms.gle/unm63xHjQzdcm3qv7)
+[waitlist](https://forms.gle/unm63xHjQzdcm3qv7)
 
 ---
 
